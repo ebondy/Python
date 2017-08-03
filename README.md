@@ -23,3 +23,11 @@ ListLessThan.py
 - Print all the numbers less than 5
 - Create a new list with all the numbers less than 5
 - Prompt the user for a number, and create a new list with all the numbers less than that number
+
+Divisor.py
+- Prompt the user for a number
+- Generate a list of all the divisors of the number provided
+
+ListOverlap.py
+- Randomly generate two lists of random lengths (boundaries commented within the code)
+- Return a list which contains no duplicates, of the numbers found in BOTH lists
