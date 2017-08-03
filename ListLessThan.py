@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#Author: Eric Bondy
 #Simple List manipulation practice
 
 ListL = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]                                                             #Declare the 3 lists needed

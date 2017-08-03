@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#Author: Eric Bondy
 #Simple conditional statement practice as well as modulo arithmetic
 
 number = int(input("Please input a number you wish to evaluate: "))     #Prompt the user to imput a number to evaluate

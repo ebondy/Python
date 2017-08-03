@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#Author: Eric Bondy
 #Simple user imput exercise
 
 name = input("Please provide me your name: ")                                                   #prompt the user for their name
